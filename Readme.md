@@ -56,4 +56,3 @@ Sentiment analysis plays a crucial role in various industries like marketing, fi
 
 🙌 Contributors
 Tarandeep Singh Plaha – Developer & Researcher
-GitHub | LinkedIn
