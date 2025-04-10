@@ -54,5 +54,5 @@ Sentiment analysis plays a crucial role in various industries like marketing, fi
 3. Run the notebook or script:
      Open notebooks/sentiment_analysis.ipynb in Jupyter Notebook Or run the script via terminal
 
-🙌 Contributors
+##🙌 Contributors
 Tarandeep Singh Plaha – Developer & Researcher
