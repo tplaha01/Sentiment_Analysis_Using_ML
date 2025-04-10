@@ -1,0 +1,4 @@
+.vscode/
+__pycache__
+cross_validation_results.txt
+models/
